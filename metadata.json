@@ -1,0 +1,8 @@
+{
+  "name": "AgriRanker AI",
+  "description": "ICAR B.Sc. (Hons.) Agriculture exam preparation platform with smart English and Hinglish notes, ICAR JRF mock tests, subjective answer grading, and practical viva simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
